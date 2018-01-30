@@ -1,0 +1,8 @@
+.Item {
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.Active {
+    text-decoration: line-through;
+}
